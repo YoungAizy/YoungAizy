@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ayanda Marotya
+- 👀 I’m interested in ... Frontend and backend programming for android and web in the foolowing languages: Javascript, Java and Python
+- 🌱 I’m currently learning ... Vue.js and Angular.js, React Native and Flutter
+- 💞️ I’m looking to collaborate on ... android projects, webrtc related projects as well anything that will give me an opportunity to learn something new.
+- 📫 How to reach me ... You can send me an email on AyandaMarotya@gmail.com
+- I am looking for help in ... AWS
